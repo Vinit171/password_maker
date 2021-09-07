@@ -1,0 +1,3 @@
+In this program u will get to know about how to create password.
+
+The code is written by Vineet Sharma
